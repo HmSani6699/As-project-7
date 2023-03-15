@@ -135,8 +135,6 @@ document.querySelector("#submit").addEventListener("click", () => {
     );
   }
   let storage1 = JSON.parse(localStorage.getItem("results"));
-  console.log(storage1)
-  console.log(storage)
   // Right side bar/ answer section
   let x = setTimeout(() => {
     showAnswers(answers);
