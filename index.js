@@ -182,9 +182,3 @@ document.querySelector("#submit").addEventListener("click", () => {
   }, 1500);
   window.scrollTo(0, 0);
 });
-
-
-// //Simple question and answer part
-// const SimpleBlog = () => {
-  
-// }
